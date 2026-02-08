@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "明け方",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-08T15:57:03.093527Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "明け方",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/01_明け方_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "明け方",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_明け方_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "明け方",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/03_明け方_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "明け方",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/04_明け方_カネコアヤノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "明け方",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_明け方_カネコアヤノ.txt"
+    }
+  ]
+}
